@@ -1,4 +1,4 @@
-package com.eurotech.tests.utilities;
+package com.eurotech.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
