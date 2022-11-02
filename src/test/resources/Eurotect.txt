@@ -1,0 +1,9 @@
+Hello World!
+
+Eurotech is here
+
+C:\Users\fevzi\IdeaProjects\MyTestNG
+src/test/java/com/eurotech/tests/FirstClass.java
+src/test/java/com/eurotech/tests/FirstClass.java
+com/eurotech/tests/FirstClass.java
+"C:\Users\fevzi\Desktop\upload.txt"
